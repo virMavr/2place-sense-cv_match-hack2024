@@ -1,4 +1,4 @@
-Here is our code and solution from II place at SENSE group hackathon (01.03.2024). <br/>
+Here is our code and solution from **II place at SENSE group hackathon** (01.03.2024). <br/>
 <br/>
 We solved the problem "Match vacancy and cv" using: <br/>
 - **data parsers** (hh vacancy and cv's), created for finding data; <br/>
